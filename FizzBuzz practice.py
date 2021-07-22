@@ -1,4 +1,4 @@
-fizzBuzz = {3 : 'Fizz', 5 : 'Buzz', 8 : 'Boof'}
+fizzBuzz = {3 : 'Fizz', 5 : 'Buzz'}
 
 for i in range(1, 101):
     charStr = ''
